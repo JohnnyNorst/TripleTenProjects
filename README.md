@@ -27,7 +27,7 @@ Hi, I'm **[Your Name]**. This repository is a collection of projects I built whi
 
 | # | Project | Tool | Skills Demonstrated | Links |
 |---|---------|------|---------------------|-------|
-| 1 | **[NYC AirBnB Data Analysis]** | Google Sheets | Formulas, pivot tables, visualisations | [Folder](https://github.com/JohnnyNorst/TripleTenProjects/tree/5d67c494ee0fda83b8e19bf7bd7f8b04423e369d/Google%20Sheets%20AirBNB%20|
+| 1 | **NYC AirBnB Data Analysis** | Google Sheets | Formulas, pivot tables, visualisations | [Folder](https://github.com/JohnnyNorst/TripleTenProjects/tree/5d67c494ee0fda83b8e19bf7bd7f8b04423e369d/Google%20Sheets%20AirBNB%20)|
 | 2 | **[Project Name]** | Google Sheets | Data cleaning, charts, dashboard design | [Folder](./google-sheets/project-2) · [Live Sheet](#) |
 | 3 | **[Project Name]** | Power BI | Data modeling, DAX, interactive filters | [Folder](./power-bi/project-1) · [Screenshots](#) |
 | 4 | **[Project Name]** | Power BI | Power Query, KPIs, drill-through | [Folder](./power-bi/project-2) · [Screenshots](#) |
