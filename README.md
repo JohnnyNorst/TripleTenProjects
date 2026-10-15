@@ -93,41 +93,7 @@ Hi, I'm Jason Osagie. This repository is a collection of projects I built while 
 
 ---
 
-## 📁 Repository Structure
 
-```
-├── google-sheets/
-│   ├── project-1/
-│   │   ├── README.md
-│   │   ├── data/
-│   │   └── images/
-│   └── project-2/
-├── power-bi/
-│   ├── project-1/
-│   │   ├── README.md
-│   │   ├── report.pbix
-│   │   ├── data/
-│   │   └── images/
-│   └── project-2/
-├── tableau/
-│   ├── project-1/
-│   │   ├── README.md
-│   │   ├── workbook.twbx
-│   │   ├── data/
-│   │   └── images/
-│   └── project-2/
-└── README.md
-```
-
----
-
-## ▶️ How to Explore the Projects
-
-- **Google Sheets:** Open the live link in each project's README (view-only). Use *File → Make a copy* to experiment.
-- **Power BI:** Download the `.pbix` file and open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free). Screenshots are included if you don't have it installed.
-- **Tableau:** View interactive versions on [Tableau Public](https://public.tableau.com/), or download the `.twbx` and open in Tableau Public/Desktop.
-
----
 
 ## 📚 Data Sources
 
@@ -142,20 +108,11 @@ Each project folder lists its specific dataset and license/terms where applicabl
 
 ---
 
-## 🎯 Learning Goals
-
-- [x] Build clean, well-documented analysis workflows
-- [x] Design dashboards that answer real business questions
-- [ ] [Next skill, e.g., "Learn advanced DAX time intelligence"]
-- [ ] [Next skill, e.g., "Add SQL-based projects"]
-
----
-
 ## 📬 Let's Connect
 
-- 💼 LinkedIn: [your-link](#)
-- 📧 Email: [your-email]
-- 🌐 Portfolio / Tableau Public: [your-link](#)
+- 💼 LinkedIn: [Jason Osagie](https://www.linkedin.com/in/jason-osagie-48248638/)
+- 📧 Email: Osajay98@gmail.com
+- 🌐 [Portfolio / Tableau Public](https://public.tableau.com/app/profile/jason.osagie/vizzes)
 
 ---
 
