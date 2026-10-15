@@ -77,7 +77,7 @@ Hi, I'm Jason Osagie. This repository is a collection of projects I built while 
 **Key Insights:** The analysis identifies major profit centers and loss-making products, highlights the three subcategories to prioritize and discontinue, and pinpoints promising advertising opportunities based on monthly profits and a proposed advertising budget of 20% of profits. Return-rate analysis also helps identify products and customers associated with frequent returns, supporting data-driven decisions to improve profitability.
 
 
-🔗 [View on Tableau Public](https://public.tableau.com/views/Sprint4SuperstoreAnalysis_17804462049890/Sheet7?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) · 📁 [Project Folder](./tableau/project-1)
+🔗 [View on Tableau Public](https://public.tableau.com/views/Sprint4SuperstoreAnalysis_17804462049890/Sheet7?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) · 📁 [Project Folder](https://github.com/JohnnyNorst/TripleTenProjects/tree/caa9356b6aef901b1dd99045034e30aa3c9ea6ca/Tableau%20Superstore%20Analysis%20)
 
 ---
 
