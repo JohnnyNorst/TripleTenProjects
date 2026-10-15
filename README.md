@@ -66,21 +66,18 @@ Hi, I'm Jason Osagie. This repository is a collection of projects I built while 
 
 ---
 
-### 3. [Project Name] — Tableau
-**Goal:** [Business question.]
-**Dataset:** [Source and size]
-**Approach:**
-- Connected and joined data sources
-- Created calculated fields, parameters, and LOD expressions
-- Built an interactive dashboard with a clear narrative flow
+### 3. Saving Superstore — Tableau
 
-**Key Insights:**
-- [Insight #1]
-- [Insight #2]
+**Project Goal:** Analyze the Superstore’s sales, profitability, advertising opportunities, and product return rates to identify operational improvements and recommend strategies to increase profitability and prevent financial losses.
 
-![Tableau Dashboard Preview](./tableau/project-1/images/dashboard.png)
+**Dataset:** Superstore orders and returns data, including product names, subcategories, customer information, geographic regions, order dates, shipping modes, sales, profits, and returned-item status.
 
-🔗 [View on Tableau Public](#) · 📁 [Project Folder](./tableau/project-1)
+**Approach:** Used Tableau to create visualizations comparing profit and loss across product categories, regions, and other dimensions. Analyzed underperforming products and subcategories, identified the most profitable state-and-month combinations for advertising, and calculated return rates by product and customer using a left join between the Orders and Returns tables.
+
+**Key Insights:** The analysis identifies major profit centers and loss-making products, highlights the three subcategories to prioritize and discontinue, and pinpoints promising advertising opportunities based on monthly profits and a proposed advertising budget of 20% of profits. Return-rate analysis also helps identify products and customers associated with frequent returns, supporting data-driven decisions to improve profitability.
+
+
+🔗 [View on Tableau Public](https://public.tableau.com/views/Sprint4SuperstoreAnalysis_17804462049890/Sheet7?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) · 📁 [Project Folder](./tableau/project-1)
 
 ---
 
