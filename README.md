@@ -48,7 +48,7 @@ Hi, I'm Jason Osagie. This repository is a collection of projects I built while 
 
 **Key Insights:** One-bedroom apartments were the most popular property size, with 1,265 listings, followed by two-bedroom apartments (526) and studios (441). The analysis also identified neighborhood-specific property preferences and ranked recommended listings by revenue. The top-earning listing generated $29,940 during the 30-day sample, equivalent to an estimated $359,280 annually if that revenue rate remained consistent.
 
-📁 [Project Folder](./google-sheets/project-1)
+📁 [Project Folder](https://github.com/JohnnyNorst/TripleTenProjects/tree/81795f591e5bcd74341938b82cfe5aaede36fd50/Google%20Sheets%20AirBNB%20)
 
 ---
 
