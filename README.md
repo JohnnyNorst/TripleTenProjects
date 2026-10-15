@@ -31,10 +31,8 @@ Hi, I'm Jason Osagie. This repository is a collection of projects I built while 
 | 2 | **Business Analytics** | Google Sheets | Data cleaning, formulas, pivot tables, cohort analysis | [Folder](https://github.com/JohnnyNorst/TripleTenProjects/tree/2ca775c12818bcec9574e85cb56c18b17ed00d97/Google%20Sheets%20Business%20Analytics%20) |
 | 3 | **Superstore Analysis** | Tableau | Data modeling, calculated fields, interactive charts | [Folder](https://github.com/JohnnyNorst/TripleTenProjects/tree/a25aed8850182012fcb2735583d49f9cabc3ea70/Tableau%20Superstore%20Analysis%20) |
 | 4 | **Return Rate Analysis** | Tableau | Calculated Fields, dashboard, story, interactive filters | [Folder](https://github.com/JohnnyNorst/TripleTenProjects/tree/e9cea061cb0fd411b30ba7b968627687aa0797e4/Tableau%20Return%20Rate%20) |
-| 5 | **[Project Name]** | Tableau | Calculated fields, dashboards, storytelling | [Folder](./tableau/project-1) · [Tableau Public](#) |
-| 6 | **[Project Name]** | Tableau | Maps, parameters, LOD expressions | [Folder](./tableau/project-2) · [Tableau Public](#) |
+| 5 | **Shopify Analysis** | Power BI | DAX, Vizualation, Filters,Data Modeling | [Folder](https://github.com/JohnnyNorst/TripleTenProjects/tree/e9cea061cb0fd411b30ba7b968627687aa0797e4/Power%20BI%20Shopify) |
 
-> 💡 *Replace the placeholders above with your real projects and links. Delete any rows you don't need.*
 
 ---
 
