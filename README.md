@@ -28,7 +28,7 @@ Hi, I'm Jason Osagie. This repository is a collection of projects I built while 
 | # | Project | Tool | Skills Demonstrated | Links |
 |---|---------|------|---------------------|-------|
 | 1 | **NYC AirBnB Data Analysis** | Google Sheets | Formulas, pivot tables, visualisations | [Folder](https://github.com/JohnnyNorst/TripleTenProjects/tree/5d67c494ee0fda83b8e19bf7bd7f8b04423e369d/Google%20Sheets%20AirBNB%20)|
-| 2 | **[Project Name]** | Google Sheets | Data cleaning, charts, dashboard design | [Folder](./google-sheets/project-2) · [Live Sheet](#) |
+| 2 | **Business Analytics** | Google Sheets | Data cleaning, formulas, pivot tables, cohort analysis | [Folder](https://github.com/JohnnyNorst/TripleTenProjects/tree/2ca775c12818bcec9574e85cb56c18b17ed00d97/Google%20Sheets%20Business%20Analytics%20) |
 | 3 | **[Project Name]** | Power BI | Data modeling, DAX, interactive filters | [Folder](./power-bi/project-1) · [Screenshots](#) |
 | 4 | **[Project Name]** | Power BI | Power Query, KPIs, drill-through | [Folder](./power-bi/project-2) · [Screenshots](#) |
 | 5 | **[Project Name]** | Tableau | Calculated fields, dashboards, storytelling | [Folder](./tableau/project-1) · [Tableau Public](#) |
