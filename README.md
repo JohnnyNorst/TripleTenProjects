@@ -52,20 +52,15 @@ Hi, I'm Jason Osagie. This repository is a collection of projects I built while 
 
 ---
 
-### 2. [Project Name] — Power BI
-**Goal:** [Business question.]
-**Dataset:** [Source and size]
-**Approach:**
-- Transformed and shaped data in Power Query
-- Built a star-schema data model with relationships
-- Wrote DAX measures (e.g., Total Sales, YoY Growth, Profit Margin)
-- Designed an interactive report with slicers, tooltips, and drill-through
+### 2. E-commerce Business Analytics — Google Sheets
 
-**Key Insights:**
-- [Insight #1]
-- [Insight #2]
+**Project Goal:** Analyze e-commerce user activity to measure website conversion performance and understand customer retention over time, helping the business identify opportunities to improve purchases and customer engagement.
 
-![Power BI Dashboard Preview](./power-bi/project-1/images/dashboard.png)
+**Dataset:** Raw website activity logs containing user IDs, event types, product categories, brands, prices, and event dates. The dataset includes product page views, shopping cart activity, and purchase events.
+
+**Approach:** Built a conversion funnel using unique user counts to measure progression from product views to purchases. Filtered purchase records, used pivot tables and spreadsheet formulas (`VLOOKUP`, `TEXT`, and `DATEDIF`) to identify first purchase dates and assign customers to monthly acquisition cohorts. Calculated cohort retention rates across subsequent months and organized the results into an executive summary.
+
+**Key Insights:** The analysis framework measures how effectively website visitors convert into purchasers and how consistently customers return to make purchases over time. It segments customers into six monthly cohorts and tracks retention for up to four months after their initial purchase, helping identify potential conversion bottlenecks and trends in customer loyalty.
 
 📁 [Project Folder](./power-bi/project-1)
 
