@@ -62,7 +62,7 @@ Hi, I'm Jason Osagie. This repository is a collection of projects I built while 
 
 **Key Insights:** The analysis framework measures how effectively website visitors convert into purchasers and how consistently customers return to make purchases over time. It segments customers into six monthly cohorts and tracks retention for up to four months after their initial purchase, helping identify potential conversion bottlenecks and trends in customer loyalty.
 
-📁 [Project Folder](./power-bi/project-1)
+📁 [Project Folder](https://github.com/JohnnyNorst/TripleTenProjects/tree/9a5a79ddc3136cb6493c00fd377d5cf48dcf39db/Google%20Sheets%20Business%20Analytics%20)
 
 ---
 
