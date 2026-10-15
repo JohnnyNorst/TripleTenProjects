@@ -29,8 +29,8 @@ Hi, I'm Jason Osagie. This repository is a collection of projects I built while 
 |---|---------|------|---------------------|-------|
 | 1 | **NYC AirBnB Data Analysis** | Google Sheets | Formulas, pivot tables, visualisations | [Folder](https://github.com/JohnnyNorst/TripleTenProjects/tree/5d67c494ee0fda83b8e19bf7bd7f8b04423e369d/Google%20Sheets%20AirBNB%20)|
 | 2 | **Business Analytics** | Google Sheets | Data cleaning, formulas, pivot tables, cohort analysis | [Folder](https://github.com/JohnnyNorst/TripleTenProjects/tree/2ca775c12818bcec9574e85cb56c18b17ed00d97/Google%20Sheets%20Business%20Analytics%20) |
-| 3 | **Superstore analysis** | Tableau | Data modeling, calculated fields, interactive charts | [Folder](https://github.com/JohnnyNorst/TripleTenProjects/tree/a25aed8850182012fcb2735583d49f9cabc3ea70/Tableau%20Superstore%20Analysis%20) |
-| 4 | **[Project Name]** | Power BI | Power Query, KPIs, drill-through | [Folder](./power-bi/project-2) · [Screenshots](#) |
+| 3 | **Superstore Analysis** | Tableau | Data modeling, calculated fields, interactive charts | [Folder](https://github.com/JohnnyNorst/TripleTenProjects/tree/a25aed8850182012fcb2735583d49f9cabc3ea70/Tableau%20Superstore%20Analysis%20) |
+| 4 | **Return Rate Analysis** | Tableau | Calculated Fields, dashboard, story, interactive filters | [Folder](./power-bi/project-2) · [Screenshots](#) |
 | 5 | **[Project Name]** | Tableau | Calculated fields, dashboards, storytelling | [Folder](./tableau/project-1) · [Tableau Public](#) |
 | 6 | **[Project Name]** | Tableau | Maps, parameters, LOD expressions | [Folder](./tableau/project-2) · [Tableau Public](#) |
 
