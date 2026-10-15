@@ -38,20 +38,17 @@ Hi, I'm Jason Osagie. This repository is a collection of projects I built while 
 
 ## 🔍 Featured Projects
 
-### 1. [Project Name] — Google Sheets
-**Goal:** [One sentence: the business question you set out to answer.]
-**Dataset:** [Source, e.g., Kaggle, data.gov, a class dataset] · [# rows / columns]
-**Approach:**
-- Cleaned and standardized the data (removed duplicates, fixed formats, handled blanks)
-- Built pivot tables and `QUERY`/`FILTER`/`XLOOKUP` summaries
-- Designed a dashboard with charts and slicers
+### 1. NYC Airbnb Market Analysis — Google Sheets
 
-**Key Insights:**
-- [Insight #1 with a number, e.g., "Q4 sales were 32% higher than Q3."]
-- [Insight #2]
-- [Insight #3]
+**Project Goal:** Analyze Manhattan’s Airbnb vacation rental market to identify the most attractive neighborhoods and property sizes for investment, and estimate the revenue potential of top-performing listings.
 
-📎 [View the Sheet](#) · 📁 [Project Folder](./google-sheets/project-1)
+**Dataset:** NYC Airbnb listings and calendar data, including neighborhood, number of bedrooms, reviews over the last 12 months, nightly adjusted prices, and availability.
+
+**Approach:** Cleaned inconsistent neighborhood labels and missing bedroom values, then used spreadsheet formulas, pivot tables, and a bar chart to identify the top 10 neighborhoods and most popular property sizes. Used `IF` and `SUMIF` functions to calculate rental revenue over a 30-day period and estimate annual revenue for recommended listings.
+
+**Key Insights:** One-bedroom apartments were the most popular property size, with 1,265 listings, followed by two-bedroom apartments (526) and studios (441). The analysis also identified neighborhood-specific property preferences and ranked recommended listings by revenue. The top-earning listing generated $29,940 during the 30-day sample, equivalent to an estimated $359,280 annually if that revenue rate remained consistent.
+
+📁 [Project Folder](./google-sheets/project-1)
 
 ---
 
