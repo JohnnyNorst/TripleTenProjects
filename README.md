@@ -13,7 +13,7 @@
 
 ## 👋 About This Repository
 
-Hi, I'm **[Your Name]**. This repository is a collection of projects I built while learning and practicing data analytics. Each project follows the same workflow: **ask a question → clean the data → analyze → visualize → communicate findings.**
+Hi, I'm Jason Osagie. This repository is a collection of projects I built while learning and practicing data analytics. Each project follows the same workflow: **ask a question → clean the data → analyze → visualize → communicate findings.**
 
 **What you'll find here:**
 - Spreadsheet-based analysis with formulas, pivot tables, and dashboards in Google Sheets
